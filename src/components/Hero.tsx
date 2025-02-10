@@ -14,7 +14,7 @@ const slides = [
     id: 2,
     title: "Entrega para Todo Brasil",
     description: "Rapidez e segurança na entrega",
-    image: "https://images.unsplash.com/photo-1589147437556-43f4f7a04eb7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+    image: "https://images.unsplash.com/photo-1601171903005-03a8f57e4428?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
   },
 ];
 
